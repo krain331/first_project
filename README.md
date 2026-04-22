@@ -1,8 +1,7 @@
 <a id="read-top"></a>
 
-<img width="320" height="215" alt="1677081505_papik-pro-p-tesak-karikaturi-1" src="https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce" />
-
 ![Улыбаемся :)](https://media.tenor.com/pekmWO_I9a4AAAAM/%D1%82%D0%B5%D1%81%D0%B0%D0%BA.gif)
+![Picture of cat](https://i.imgflip.com/6ek11y.png)
 
 <!-- There is some text
 Da da, huli ti palish
@@ -26,6 +25,8 @@ that we don't visible-->
 
 # Kak menya eto zaebalo
 
+tut knopka vniz
+
 <p align="right"><a href="read-top">back to top</a></p>
 
 ## ya zaebalsya
@@ -46,10 +47,11 @@ n = int(input())
 print()
 ```
 
+Tesak photos  
 |Name  |URL|Logo|
-|:-:|:-|-:|
+|-:|:-:|:-|
 |React|https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif|<img src="https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif" width="200" />|
-|Cat|https://i.imgflip.com/6ek11y.png|![Picture of cat](https://i.imgflip.com/6ek11y.png)
+|Lookalike|https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce|<img width="200" alt="1677081505_papik-pro-p-tesak-karikaturi-1" src="https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce" />|
 
 😿
 
@@ -60,7 +62,7 @@ Stalin govoril
 [My profile](https://github.com/krain331)
 [My profile](https://github.com/krain331 "Da eto on blyat")
 
-[![Top Contributors](https://media1.tenor.com/m/UC_QZtgJoKYAAAAd/kazuha-le-sserafim.gif)](https://media1.tenor.com/m/AbQANk59vIQAAAAC/tesak.gif)
+[![Top Contributors](https://media1.tenor.com/m/UC_QZtgJoKYAAAAd/kazuha-le-sserafim.gif)](https://c.tenor.com/AbQANk59vIQAAAAC/tenor.gif)
 
 ## Roadmap
 - [ ] Some text
