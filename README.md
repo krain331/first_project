@@ -1,4 +1,4 @@
-<a id="read-top"></a>
+<a id="readme-top"></a>
 
 ![Улыбаемся :)](https://media.tenor.com/pekmWO_I9a4AAAAM/%D1%82%D0%B5%D1%81%D0%B0%D0%BA.gif)
 ![Picture of cat](https://i.imgflip.com/6ek11y.png)
@@ -16,8 +16,8 @@ that we don't visible-->
     <li>
       <a href="#kak-menya-eto-zaebalo">Kak menya</a>
       <ul>
-        <li><a href="ya-prosto-v-ahue">Da da ya</a></li>
-        <li><a href="ya-zaebalsya">Da da ti</a></li>
+        <li><a href="#ya-prosto-v-ahue">Da da ya</a></li>
+        <li><a href="#ya-zaebalsya">Da da ti</a></li>
       </ul>
     </li>
   </ol>
@@ -27,7 +27,7 @@ that we don't visible-->
 
 tut knopka vniz
 
-<p align="right"><a href="read-top">back to top</a></p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 ## ya zaebalsya
 
@@ -47,7 +47,7 @@ n = int(input())
 print()
 ```
 
-Tesak photos  
+<!-- Table of tesak photos --> 
 |Name  |URL|Logo|
 |-:|:-:|:-|
 |React|https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif|<img src="https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif" width="200" />|
