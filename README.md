@@ -1,6 +1,6 @@
 <a id="read-top"></a>
 
-<img width="640" height="431" alt="1677081505_papik-pro-p-tesak-karikaturi-1" src="https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce" />
+<img width="320" height="215" alt="1677081505_papik-pro-p-tesak-karikaturi-1" src="https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce" />
 
 ![Улыбаемся :)](https://media.tenor.com/pekmWO_I9a4AAAAM/%D1%82%D0%B5%D1%81%D0%B0%D0%BA.gif)
 
@@ -17,7 +17,8 @@ that we don't visible-->
     <li>
       <a href="#kak-menya-eto-zaebalo">Kak menya</a>
       <ul>
-        <li><a href="ya-prosto-v-ahue">Da da ya</li>
+        <li><a href="ya-prosto-v-ahue">Da da ya</a></li>
+        <li><a href="ya-zaebalsya">Da da ti</a></li>
       </ul>
     </li>
   </ol>
@@ -27,11 +28,11 @@ that we don't visible-->
 
 <p align="right"><a href="read-top">back to top</a></p>
 
-## Could you give me a head?
+## ya zaebalsya
 
 my first test Git repo
 
-## ya prosto v ahue
+# ya prosto v ahue
 
 1. *ya prosto v ahue*
 2. **prosto pizdec**
