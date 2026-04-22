@@ -38,7 +38,7 @@ my first test Git repo
 3. ***ya ochen ustal***
 ***
 * da da ya \*
-* `da da ti`
+* `print('ti pidoras')`
 
 ```python
 n = int(input())
