@@ -4,7 +4,7 @@
 
 <!-- There is some text ... 
 ... that we don't visible-->
-[co	mment]: # (There is some text that we don't visible)
+[comment]: # (There is some text that we don't visible)
 [//]: # (There is some text that we don't visible)
 
 <details>
@@ -30,7 +30,8 @@ Tut knopka vverh
 3. ***aboba***
 4. H<sup>+1</sup> / H<sub>2</sub> - ион / молекула водорода
 * * *
-> "aboba" 
+> "aboba"
+
 `print('aboba')`  
 ```python
 # Python code
@@ -44,13 +45,28 @@ print(n)
 |React|https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif|<img src="https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif" width="200" />|
 |Lookalike|https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce|<img width="200" alt="1677081505_papik-pro-p-tesak-karikaturi-1" src="https://github.com/user-attachments/assets/611146db-e526-4174-be3d-94e6f409d2ce" />|
 
-<p align="right"><a href="#readme-top">back to top 🐱</a></p>
-
 [![Suprize](https://media1.tenor.com/m/UC_QZtgJoKYAAAAd/kazuha-le-sserafim.gif)](https://c.tenor.com/AbQANk59vIQAAAAC/tenor.gif)
 
-### Roadmap
+## Roadmap
+
 - [ ] Some text
-    - [ ] Ocherednoy text
-    - [x] https://github.com/krain331
+    - [ ] https://github.com/krain331
     - [x] [My profile](https://github.com/krain331)
     - [x] [My profile](https://github.com/krain331 "Da eto on blyat")
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+<p align="right"><a href="#readme-top">back to top 🐱</a></p>
