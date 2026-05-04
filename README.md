@@ -2,14 +2,14 @@
 
 ![Улыбаемся :)](https://media.tenor.com/pekmWO_I9a4AAAAM/%D1%82%D0%B5%D1%81%D0%B0%D0%BA.gif)![Picture of cat](https://i.imgflip.com/6ek11y.png)
 
-<!-- There is some text ... 
+<!-- There is some text ...
 ... that we don't visible-->
 [comment]: # (There is some text that we don't visible)
 [//]: # (There is some text that we don't visible)
 
 <details>
   <summary>Table of Contents</summary>
-  <ol> 
+  <ol>
     <li>
       <a href="#testiruem-knopku">Тестируем кнопку</a>
       <ul>
@@ -28,18 +28,20 @@ Tut knopka vverh
 1. *aboba*
 2. **aboba**
 3. ***aboba***
-4. H<sup>+1</sup> / H<sub>2</sub> - ион / молекула водорода
+4. ~~aboba~~
+5. <ins>aboba</ins>
+6. H<sup>+1</sup> / H<sub>2</sub> - ион / молекула водорода
 * * *
 > "aboba"
 
-`print('aboba')`  
+`print('aboba')`
 ```python
 # Python code
 n = int(input())
 print(n)
 ```
 
-<!-- Таблица с фотками тесака --> 
+<!-- Таблица с фотками тесака -->
 |Name  | URL |Logo|
 |-:|:-:|:-|
 |React|https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif|<img src="https://media1.tenor.com/m/uYX0HdPqdSQAAAAC/tesak-legenda.gif" width="200" />|
@@ -53,6 +55,8 @@ print(n)
     - [ ] https://github.com/krain331
     - [x] [My profile](https://github.com/krain331)
     - [x] [My profile](https://github.com/krain331 "Da eto on blyat")
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
@@ -70,3 +74,4 @@ print(n)
 > Negative potential consequences of an action.
 
 <p align="right"><a href="#readme-top">back to top 🐱</a></p>
+
